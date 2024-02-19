@@ -1,9 +1,10 @@
 function execute(url, page) {
     load('config.js');
     if (!page) page = '1';
+	//const doc = fetch(BASE_URL + "/" + url + ".html").html();
     let response = fetch(BASE_URL + url,{
         method : "GET",
-        headers: {
+       headers: {
                 'user-agent': UserAgent.android()
             },
         queries : {
