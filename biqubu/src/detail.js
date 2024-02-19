@@ -1,5 +1,5 @@
 function execute(url) {
-	url = url.replace ("biqubu.com", "biqubu1.com")
+	url = url.replace("biqubu.com","biqubu1.com")
     let response = fetch(url + "/");
     if (response.ok) {
 
