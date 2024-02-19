@@ -18,10 +18,10 @@
     {
       "name": "biqubu1",
       "author": "vBook",
-      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/biqubu/plugin.zip",
+      "path": "https://raw.githubusercontent.com/vncustom/vncustomvb/main/biqubu/plugin.zip",
       "version": 5,
       "source": "https://www.biqubu1.com",
-      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/biqubu/icon.png",
+      "icon": "https://raw.githubusercontent.com/vncustom/vncustomvb/main/biqubu/icon.png",
       "description": "Đọc truyện trên trang biqubu1.com",
       "type": "chinese_novel",
       "locale": "zh_CN"
