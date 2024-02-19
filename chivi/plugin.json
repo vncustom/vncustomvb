@@ -1,20 +1,20 @@
 {
   "metadata": {
-    "name": "Bàn Long",
+    "name": "Chivi",
     "author": "vncustom",
-    "version": 1,
-    "source": "https://banlong.us",
-    "regexp": "(www.)?banlong.us/truyen/[0-9a-z-]+/?",
-    "description": "Đọc truyện trên banlong.us",
-    "local": "vi-VN",
+    "version": 24,
+    "source": "https://chivi.app",
+    "regexp": "(www.)?chivi.(xyz|app)/[^/+]+/?$",
+    "description": "Đọc truyện trên trang Chivi",
+    "locale": "vi_VN",
     "language": "javascript",
     "type": "novel"
   },
   "script": {
     "home": "home.js",
-    "genre": "genre.js",
     "detail": "detail.js",
     "search": "search.js",
+    "genre": "genre.js",
     "page": "page.js",
     "toc": "toc.js",
     "chap": "chap.js"
