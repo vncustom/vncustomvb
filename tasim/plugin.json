@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "tasim",
+    "author": "vncustom",
+    "version": 1,
+    "source": "https://www.tasim.net/",
+    "regexp": "(www|m)\\.tasim\\.net/v?book/\\d+/?$",
+    "description": "Đọc truyện trên trang https://www.tasim.net",
+    "local": "vi-VN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
