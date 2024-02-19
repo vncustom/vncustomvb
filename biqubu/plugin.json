@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "biqubu1",
-    "author": "vBook",
+    "author": "vncustom",
     "version": 5,
     "source": "https://www.biqubu1.com",
     "regexp": "(www.)?biqubu1.com/book_[^/]+/?",

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "gongzicp",
-    "author": "vBook",
+    "author": "vncustom",
     "version": 1,
     "source": "https://www.gongzicp.com",
     "regexp": "(www.|m.)gongzicp.com/novel-\\d+.html$",

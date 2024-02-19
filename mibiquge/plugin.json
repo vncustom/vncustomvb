@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "mibiquge",
-    "author": "vBook",
+    "author": "vncustom",
     "version": 1,
     "source": "https://www.mibiquge.com",
     "regexp": "(www.|m.)?mibiquge.com/\\d+_\\d+/index.html",

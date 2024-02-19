@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "Dizishu (弟子小说网)",
-    "author": "vBook",
+    "author": "vncustom",
     "version": 3,
     "source": "https://www.dizishu.com",
     "regexp": "(www.|m.)?dizishu.com/b/\\d+/?",
