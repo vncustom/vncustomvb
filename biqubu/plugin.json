@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "biqubu1",
+    "author": "vBook",
+    "version": 5,
+    "source": "https://www.biqubu1.com",
+    "regexp": "(www.)?biqubu1.com/book_[^/]+/?",
+    "description": "Đọc truyện trên trang biqubu1.com",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
